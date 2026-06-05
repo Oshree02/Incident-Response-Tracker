@@ -6,6 +6,7 @@ Phishing
 Observations:
 
 - Suspicious email detected
+- fake user detected
 - Fake login page observed
 
 Actions Taken:
